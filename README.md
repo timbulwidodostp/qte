@@ -1,6 +1,8 @@
 # qte
 Quantile treatment effects Use ci.qte (qte) With (In) R Software
 
+https://www.youtube.com/watch?v=x4HgHqfKTgc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
